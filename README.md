@@ -7,10 +7,10 @@ Andrés Felipe Quenan Pozo - `aquenan@unal.edu.co`
 # Video
 A continuación se presenta el video del desarrollo de este laboratorio. 
 
-#Introducción 
+# Introducción 
 
-#Objetivos
+# Objetivos
 
-#Procedimiento
+# Procedimiento
 
 # Conclusiones
