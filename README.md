@@ -20,11 +20,18 @@ A continuación se presenta el video del desarrollo de este laboratorio.
 
 # Descripción de la solución planteada
 
+El robot ABB IRB 140  se programó para moverse de manera precisa sobre el pastel (una caja con dimensiones 23cm x 15cm) ubicado sobre una banda transportadora, siguiendo un conjunto de instrucciones predefinidas para dibujar el logo de Renault y las iniciales. Para esto, primero se hizo el diseño de la herramienta que contiene el marcador, se modeló el workobject, y se definieron las orientaciones y trayectorias
+
 # Diseño de la herramienta 
+Se diseñó una herramienta modular con ángulo variable para poder 
+
 
 # Diagrama de flujo de acciones del robot
 
 # Plano de planta de la ubicación de cada uno de los elementos
+
+![image](https://github.com/user-attachments/assets/1d3711cd-1fae-4aed-a44d-16e2b8e43b35)
+
 
 # Descripción de las funciones utilizadas
 
