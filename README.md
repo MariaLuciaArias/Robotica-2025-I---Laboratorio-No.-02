@@ -12,11 +12,11 @@ A continuación se presenta el video del desarrollo de este laboratorio.
 # Objetivos
 
 * Conocer los elementos de un robot industrial.
-* Realizar calibraci´on de herramientas en el robot real, as´ı como en RobotStudio.
-* Identificar los tipos de movimientos en el espacio de la herramienta ´utiles para trabajos de manipulaci´on.
+* Realizar calibración de herramientas en el robot real, así como en RobotStudio.
+* Identificar los tipos de movimientos en el espacio de la herramienta útiles para trabajos de manipulación.
 * Ampliar el manejo de funciones proporcionadas por RobotStudio.
 * Utilizar diversas funciones de RAPID.
-* Utilizar el m´odulo de entradas y salidas digitales dispuesto en el controlador IRC5.
+* Utilizar el módulo de entradas y salidas digitales dispuesto en el controlador IRC5.
 
 # Descripción de la solución planteada
 
