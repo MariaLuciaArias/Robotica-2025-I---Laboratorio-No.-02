@@ -7,7 +7,8 @@ Andrés Felipe Quenan Pozo - `aquenan@unal.edu.co`
 # Video
 A continuación se presenta el video del desarrollo de este laboratorio. 
 
-# Introducción 
+# Introducción
+
 
 # Objetivos
 
@@ -26,6 +27,7 @@ El robot ABB IRB 140 fue programado para dibujar los nombres de los integrantes 
 Se diseñó en Inventor una herramienta modular con ángulo ajustable que permitía seleccionar el ángulo óptimo para el proceso de dibujo; este ángulo se adaptó finalmente a 30° en la práctica. El diseño se compone de tres partes principales: la base, que se atornilla al flange del robot; el portaherramientas, encargado de sujetar el marcador y el resorte; y la tapa, que asegura que ni el resorte ni el marcador se salgan durante el proceso. Para el diseño, se tuvieron en cuenta las dimensiones del marcador, los agujeros del flange del robot y las tolerancias dimensionales, garantizando así que el marcador encajara correctamente y que la herramienta pudiera atornillarse al robot. Se agregó un resorte para permitir una presión constante y uniforme del marcador sobre la superficie, asegurando trazos consistentes sin importar pequeñas variaciones en la altura del "pastel" o el desgaste de la punta. Este modelo fue impreso en PLA utilizando una impresora 3D.
 
 # Plano de planta de la ubicación de cada uno de los elementos
+Se presenta el plano de planta con los elementos y su respectiva ubicación en el entorno de RobotStudio.
 
 
 # Diagrama de flujo de acciones del robot
@@ -47,17 +49,21 @@ flowchart TD
 ```
 
 # Descripción de las funciones utilizadas
-
+Para poder desarrollar el codigo que le permite al robot dibujar el diseño planteado se utilizaron las siguientes funciones:
+* 
+* 
+* 
 
 # Código en RAPID del módulo
 
 
 # Resultados
+En esta sección se muestra el dibujo diseñado para ser realizado por el robot y el resultado final.
 
-
+## Diseño planteado
 ![image](https://github.com/user-attachments/assets/1d3711cd-1fae-4aed-a44d-16e2b8e43b35)
 
+## Dibujo realizado por el robot
 ![image](https://github.com/user-attachments/assets/2ee184aa-5804-4355-9b5e-3e141dcff488)
-
 
 # Conclusiones
