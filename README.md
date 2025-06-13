@@ -8,7 +8,7 @@ Andrés Felipe Quenan Pozo - `aquenan@unal.edu.co`
 A continuación se presenta el video del desarrollo de este laboratorio. 
 
 # Introducción
-
+Este repositorio documenta el desarrollo del Laboratorio No. 02 de Robótica Industrial, enfocado en el manejo avanzado de trayectorias, así como el uso de entradas y salidas digitales en un robot ABB IRB 140. El objetivo principal fue programar el robot para ejecutar una tarea de dibujo precisa sobre una superficie, simulando la personalización de un "pastel". Para lograrlo, se diseñó e imprimió una herramienta personalizada y se emplearon diversas funcionalidades del software RobotStudio y del lenguaje RAPID, incluyendo la calibración de herramientas y workobjects, y la integración con la banda transportadora y señales digitales. Este informe detalla el proceso completo, desde el diseño conceptual hasta la implementación práctica.
 
 # Objetivos
 
@@ -67,3 +67,7 @@ En esta sección se muestra el dibujo diseñado para ser realizado por el robot 
 ![image](https://github.com/user-attachments/assets/2ee184aa-5804-4355-9b5e-3e141dcff488)
 
 # Conclusiones
+* Este laboratorio demostró exitosamente la capacidad del robot ABB IRB 140 para ejecutar tareas de alta precisión mediante la programación de trayectorias complejas y el uso estratégico de entradas y salidas digitales.
+* La fase de diseño y la posterior impresión 3D de la herramienta resultaron cruciales para la adaptación del robot a la tarea específica de dibujo, permitiendo un control óptimo sobre la presión del marcador y la consistencia de los trazos.
+* La simulación en RobotStudio fue fundamental para validar la lógica del programa y prever posibles conflictos antes de la implementación en el robot real, lo que optimizó el tiempo de desarrollo y minimizó errores.
+* La experiencia reafirmó la importancia de la calibración precisa de herramientas y workobjects, así como el dominio de funciones RAPID (MoveL, MoveJ, MoveC) para lograr movimientos fluidos y adaptados a cada fase del dibujo.
