@@ -32,6 +32,7 @@ Se diseñó en Inventor una herramienta modular con ángulo ajustable que permit
 # Diagrama de flujo de acciones del robot
 A continuación se muestra
 
+```mermaid
 ---
 config:
   theme: redux
@@ -44,6 +45,9 @@ flowchart TD
     n3 --> n4["Fin"]
     n2@{ shape: subproc}
     n4@{ shape: terminal}
+```
+
+
 
 
 # Descripción de las funciones utilizadas
