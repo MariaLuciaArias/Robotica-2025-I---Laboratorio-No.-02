@@ -49,14 +49,13 @@ flowchart TD
 ```
 
 # Descripción de las funciones utilizadas
-Para poder desarrollar el codigo que le permite al robot dibujar el diseño planteado se utilizaron las siguientes funciones:
-* **MoveL:** Esta instrucción mueve el TCP (Tool Center Point) del robot en una trayectoria recta desde la posición actual hasta un punto de destino específico. La orientación de la herramienta se mantiene constante o cambia linealmente durante el movimiento, dependiendo de cómo se defina el punto de destino. Es ideal para tareas que requieren precisión en la trayectoria, como soldadura, dispensado o mecanizado.
-* **MoveJ:** Con MoveJ, el robot mueve cada una de sus articulaciones individualmente desde su posición actual hasta alcanzar la configuración articular del punto de destino. Esto significa que la trayectoria del TCP no es necesariamente una línea recta; el robot busca la ruta más rápida y eficiente en el espacio articular, lo que a menudo resulta en una trayectoria curva en el espacio cartesiano. Es la instrucción más rápida y se usa comúnmente para movimientos punto a punto donde la trayectoria no es crítica, como para desplazarse entre estaciones de trabajo o posiciones de "espera".
-* **MoveC:** Esta instrucción permite al robot mover su TCP a lo largo de un arco circular. Para definir un movimiento circular, MoveC requiere dos puntos de destino: un punto intermedio por el que pasará el arco y el punto final del arco. La trayectoria es siempre una porción de un círculo. Es útil para aplicaciones como la aplicación de sellador en bordes curvos o la soldadura de contornos circulares.
-
+Para poder desarrollar el código que le permite al robot dibujar el diseño planteado se utilizaron las siguientes funciones:
+* **MoveL:** Mueve el TCP del robot en una trayectoria recta desde la posición actual hasta un punto de destino específico. La orientación de la herramienta se mantiene constante o cambia linealmente durante el movimiento, dependiendo de cómo se defina el punto de destino. Es ideal para tareas que requieren precisión en la trayectoria. 
+* **MoveJ:** Mueve cada una de sus articulaciones individualmente desde su posición actual hasta alcanzar la configuración articular del punto de destino. Esto significa que la trayectoria del TCP no es necesariamente una línea recta, ya que el robot busca la ruta más rápida y eficiente en el espacio articular, resultando a veces en una trayectoria curva en el espacio cartesiano. Es la instrucción más rápida y se usa comúnmente para movimientos punto a punto donde la trayectoria no es crítica.
+* **MoveC:** Mueve el TCP a lo largo de un arco circular. Requiere dos puntos de destino: un punto intermedio por el que pasará el arco y el punto final del arco. La trayectoria es siempre una porción de un círculo. 
 
 # Código en RAPID del módulo
-
+Se presenta el módulo utilizado para el desarrollo de la práctica se encuentra implementado en RAPID
 
 # Resultados
 En esta sección se muestra el dibujo diseñado para ser realizado por el robot y el resultado final.
