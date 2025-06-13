@@ -27,10 +27,9 @@ Se diseñó en Inventor una herramienta modular con ángulo ajustable que permit
 
 # Plano de planta de la ubicación de cada uno de los elementos
 
-![image](https://github.com/user-attachments/assets/1d3711cd-1fae-4aed-a44d-16e2b8e43b35)
 
 # Diagrama de flujo de acciones del robot
-A continuación se muestra
+A continuación se muestra el diagrama de flujo de acciones del robot para realizar el dibujo propuesto. 
 
 ```mermaid
 ---
@@ -47,11 +46,18 @@ flowchart TD
     n4@{ shape: terminal}
 ```
 
-
-
-
 # Descripción de las funciones utilizadas
 
+
 # Código en RAPID del módulo
+
+
+# Resultados
+
+
+![image](https://github.com/user-attachments/assets/1d3711cd-1fae-4aed-a44d-16e2b8e43b35)
+
+![image](https://github.com/user-attachments/assets/2ee184aa-5804-4355-9b5e-3e141dcff488)
+
 
 # Conclusiones
