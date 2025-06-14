@@ -5,7 +5,7 @@ Maria Lucia Arias Ortiz - `mariasor@unal.edu.co`
 Andrés Felipe Quenan Pozo - `aquenan@unal.edu.co`
 ***
 # Video
-A continuación se presenta el video del desarrollo de este laboratorio. 
+A continuación se presenta el video del desarrollo de este laboratorio. https://youtu.be/lbS4p6EcETY
 
 # Introducción
 Este repositorio documenta el desarrollo del Laboratorio No. 02 de Robótica Industrial, enfocado en el manejo avanzado de trayectorias, así como el uso de entradas y salidas digitales en un robot ABB IRB 140. El objetivo principal fue programar el robot para ejecutar una tarea de dibujo precisa sobre una superficie, simulando la personalización de un "pastel". Para lograrlo, se diseñó e imprimió una herramienta personalizada y se emplearon diversas funcionalidades del software RobotStudio y del lenguaje RAPID, incluyendo la calibración de herramientas y workobjects, y la integración con la banda transportadora y señales digitales. Este informe detalla el proceso completo, desde el diseño conceptual hasta la implementación práctica.
