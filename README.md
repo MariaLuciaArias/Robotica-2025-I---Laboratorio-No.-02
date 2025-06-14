@@ -26,6 +26,9 @@ El robot ABB IRB 140 fue programado para dibujar los nombres de los integrantes 
 # Diseño de la herramienta 
 Se diseñó en Inventor una herramienta modular con ángulo ajustable que permitía seleccionar el ángulo óptimo para el proceso de dibujo; este ángulo se adaptó finalmente a 30° en la práctica. El diseño se compone de tres partes principales: la base, que se atornilla al flange del robot; el portaherramientas, encargado de sujetar el marcador y el resorte; y la tapa, que asegura que ni el resorte ni el marcador se salgan durante el proceso. Para el diseño, se tuvieron en cuenta las dimensiones del marcador, los agujeros del flange del robot y las tolerancias dimensionales, garantizando así que el marcador encajara correctamente y que la herramienta pudiera atornillarse al robot. Se agregó un resorte para permitir una presión constante y uniforme del marcador sobre la superficie, asegurando trazos consistentes sin importar pequeñas variaciones en la altura del "pastel" o el desgaste de la punta. Este modelo fue impreso en PLA utilizando una impresora 3D.
 
+![image](https://github.com/user-attachments/assets/924ae467-af9c-491e-b18c-3c48b7bc802b)
+
+
 # Plano de planta de la ubicación de cada uno de los elementos
 Se presenta el plano de planta con los elementos y su respectiva ubicación en el entorno de RobotStudio.
 ![image](https://github.com/user-attachments/assets/ebe1a972-fe08-4ee8-875a-021c64a936b9)
