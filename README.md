@@ -73,7 +73,7 @@ Para poder desarrollar el código que le permite al robot dibujar el diseño pla
 
 # Código en RAPID del módulo
 Se presenta el módulo utilizado para el desarrollo de la práctica se encuentra implementado en RAPID 
-<a href="[https://youtu.be/lbS4p6EcETY](https://github.com/MariaLuciaArias/Robotica-2025-I---Laboratorio-No.-02/blob/main/Module1.mod)">Código en RAPID</a>
+<a href="https://youtu.be/lbS4p6EcETY](https://github.com/MariaLuciaArias/Robotica-2025-I---Laboratorio-No.-02/blob/main/Module1.mod">Código en RAPID</a>
 
 # Resultados
 En esta sección se muestra el dibujo diseñado para ser realizado por el robot y el resultado final.
