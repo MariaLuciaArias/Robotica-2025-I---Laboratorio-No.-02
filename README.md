@@ -29,6 +29,7 @@ Se diseñó en Inventor una herramienta modular con ángulo ajustable que permit
 
 ![image](https://github.com/user-attachments/assets/f7f9f49f-3af8-4f23-9c8c-6e4b2b74f55b)
 
+![image](https://github.com/user-attachments/assets/f93f30f8-0f93-44c6-8d5b-2fd3233c28df)
 
 # Plano de planta de la ubicación de cada uno de los elementos
 Se presenta el plano de planta con los elementos y su respectiva ubicación en el entorno de RobotStudio.
@@ -64,8 +65,6 @@ flowchart TD
 ![image](https://github.com/user-attachments/assets/d48091c1-aa0f-433a-906e-199e85b4fb4d)
 
 ![image](https://github.com/user-attachments/assets/ccc25e7d-2cc4-4df6-b55d-b1720848174f)
-
-
 
 # Descripción de las funciones utilizadas
 Para poder desarrollar el código que le permite al robot dibujar el diseño planteado se utilizaron las siguientes funciones:
