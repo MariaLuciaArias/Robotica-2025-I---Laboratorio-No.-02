@@ -57,6 +57,12 @@ flowchart TD
 
 ```
 
+![image](https://github.com/user-attachments/assets/d48091c1-aa0f-433a-906e-199e85b4fb4d)
+
+![image](https://github.com/user-attachments/assets/ccc25e7d-2cc4-4df6-b55d-b1720848174f)
+
+
+
 # Descripción de las funciones utilizadas
 Para poder desarrollar el código que le permite al robot dibujar el diseño planteado se utilizaron las siguientes funciones:
 * **MoveL:** Mueve el TCP del robot en una trayectoria recta desde la posición actual hasta un punto de destino específico. La orientación de la herramienta se mantiene constante o cambia linealmente durante el movimiento, dependiendo de cómo se defina el punto de destino. Es ideal para tareas que requieren precisión en la trayectoria. 
