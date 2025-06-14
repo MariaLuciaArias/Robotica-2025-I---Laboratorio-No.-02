@@ -39,13 +39,22 @@ config:
   theme: redux
 ---
 flowchart TD
-    A(["Inicio"]) --> B{"Entrada digital DI_01 == 1?"}
-    B --> C["Ir a Home"]
-    C --> n2["Ejecutar Rutina de Dibujo"]
-    n2 --> n3["Ir a Home"]
-    n3 --> n4["Fin"]
+    A(["Inicio"]) --> B{"DI_01 == 1?"}
+    n2["Ejecutar Rutina de Dibujo"] --> n3["Ir a Home"]
+    B --> n5["DO_01 = 1"]
+    n5 --> C["Ir a Home"]
+    C --> n6["DO_02 == 1"]
+    n6 --> n7["Esperar 8 segundos"]
+    n7 --> n8["DO_02 == 0"]
+    n8 --> n2
+    n3 --> n9["DO_01 == 0"]
+    n9 --> n10["DO_02 == 1"]
+    n10 --> n11["Esperar 8 segundos"]
+    n11 --> n12["DO_02 == 0"]
+    n12 --> n4["Fin"]
     n2@{ shape: subproc}
     n4@{ shape: terminal}
+
 ```
 
 # Descripción de las funciones utilizadas
