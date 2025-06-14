@@ -28,7 +28,7 @@ Se diseñó en Inventor una herramienta modular con ángulo ajustable que permit
 
 # Plano de planta de la ubicación de cada uno de los elementos
 Se presenta el plano de planta con los elementos y su respectiva ubicación en el entorno de RobotStudio.
-
+![image](https://github.com/user-attachments/assets/ebe1a972-fe08-4ee8-875a-021c64a936b9)
 
 # Diagrama de flujo de acciones del robot
 A continuación se muestra el diagrama de flujo de acciones del robot para realizar el dibujo propuesto. 
