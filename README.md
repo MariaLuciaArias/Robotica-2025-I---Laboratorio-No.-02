@@ -62,7 +62,7 @@ flowchart TD
 
 ```
 
-A continuación se muestran los bloques utilizados para mover el pastel en la banda transportadora, cuando se activa DO_02 se realiza un movimiento lineal de 400mm en 8 segundos, una vez desactivda DO_02, nuevamente se ejecuta el mismo movimiento lineal explicado previamente.
+A continuación se muestran los bloques utilizados para mover el pastel en la banda transportadora, cuando se activa DO_02 se realiza un movimiento lineal de 400mm en 8 segundos, ya que la velocidad es 50 mm/s, una vez desactivda DO_02, se realiza las trayectorias sobre la caja y nuevamente se ejecuta el mismo movimiento lineal explicado previamente para alejar la caja del espacio de trabajo.
 
 ![image](https://github.com/user-attachments/assets/d48091c1-aa0f-433a-906e-199e85b4fb4d)
 
